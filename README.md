@@ -1,4 +1,4 @@
-MS_Connect_Case_813392
+MS Connect Case 813392
 ======================
 
 Microsoft_Connect_Case_813392 bug with HttpResponseMessage.Content.Headers ContentDisposition
